@@ -1,0 +1,27 @@
+c:\users\monde\onedrive\documents\visual studio 2017\Projects\Brgy Laram Information System\Brgy Laram Information System\bin\Debug\Brgy Laram Information System.exe.config
+c:\users\monde\onedrive\documents\visual studio 2017\Projects\Brgy Laram Information System\Brgy Laram Information System\bin\Debug\Brgy Laram Information System.exe
+c:\users\monde\onedrive\documents\visual studio 2017\Projects\Brgy Laram Information System\Brgy Laram Information System\bin\Debug\Brgy Laram Information System.pdb
+c:\users\monde\onedrive\documents\visual studio 2017\Projects\Brgy Laram Information System\Brgy Laram Information System\bin\Debug\MetroFramework.Design.dll
+c:\users\monde\onedrive\documents\visual studio 2017\Projects\Brgy Laram Information System\Brgy Laram Information System\bin\Debug\MetroFramework.dll
+c:\users\monde\onedrive\documents\visual studio 2017\Projects\Brgy Laram Information System\Brgy Laram Information System\bin\Debug\MetroFramework.Design.pdb
+c:\users\monde\onedrive\documents\visual studio 2017\Projects\Brgy Laram Information System\Brgy Laram Information System\obj\Debug\Brgy Laram Information System.csprojResolveAssemblyReference.cache
+c:\users\monde\onedrive\documents\visual studio 2017\Projects\Brgy Laram Information System\Brgy Laram Information System\obj\Debug\Brgy_Laram_Information_System.Properties.Resources.resources
+c:\users\monde\onedrive\documents\visual studio 2017\Projects\Brgy Laram Information System\Brgy Laram Information System\obj\Debug\Brgy Laram Information System.csproj.GenerateResource.Cache
+c:\users\monde\onedrive\documents\visual studio 2017\Projects\Brgy Laram Information System\Brgy Laram Information System\obj\Debug\Brgy Laram Information System.exe
+c:\users\monde\onedrive\documents\visual studio 2017\Projects\Brgy Laram Information System\Brgy Laram Information System\obj\Debug\Brgy Laram Information System.pdb
+C:\Users\monde\OneDrive\Documents\Visual Studio 2017\Projects\Brgy Laram Information System\Brgy Laram Information System\obj\Debug\Brgy_Laram_Information_System.Login.resources
+C:\Users\monde\Documents\Visual Studio 2017\Projects\Brgy Laram Information System\Brgy Laram Information System\bin\Debug\Brgy Laram Information System.exe.config
+C:\Users\monde\Documents\Visual Studio 2017\Projects\Brgy Laram Information System\Brgy Laram Information System\bin\Debug\Brgy Laram Information System.exe
+C:\Users\monde\Documents\Visual Studio 2017\Projects\Brgy Laram Information System\Brgy Laram Information System\bin\Debug\Brgy Laram Information System.pdb
+C:\Users\monde\Documents\Visual Studio 2017\Projects\Brgy Laram Information System\Brgy Laram Information System\bin\Debug\MetroFramework.Design.dll
+C:\Users\monde\Documents\Visual Studio 2017\Projects\Brgy Laram Information System\Brgy Laram Information System\bin\Debug\MetroFramework.dll
+C:\Users\monde\Documents\Visual Studio 2017\Projects\Brgy Laram Information System\Brgy Laram Information System\bin\Debug\MetroFramework.Design.pdb
+C:\Users\monde\Documents\Visual Studio 2017\Projects\Brgy Laram Information System\Brgy Laram Information System\obj\Debug\Brgy Laram Information System.csprojResolveAssemblyReference.cache
+C:\Users\monde\Documents\Visual Studio 2017\Projects\Brgy Laram Information System\Brgy Laram Information System\obj\Debug\Brgy_Laram_Information_System.Login.resources
+C:\Users\monde\Documents\Visual Studio 2017\Projects\Brgy Laram Information System\Brgy Laram Information System\obj\Debug\Brgy_Laram_Information_System.MainMenu.resources
+C:\Users\monde\Documents\Visual Studio 2017\Projects\Brgy Laram Information System\Brgy Laram Information System\obj\Debug\Brgy_Laram_Information_System.Properties.Resources.resources
+C:\Users\monde\Documents\Visual Studio 2017\Projects\Brgy Laram Information System\Brgy Laram Information System\obj\Debug\Brgy Laram Information System.csproj.GenerateResource.Cache
+C:\Users\monde\Documents\Visual Studio 2017\Projects\Brgy Laram Information System\Brgy Laram Information System\obj\Debug\Brgy Laram Information System.exe
+C:\Users\monde\Documents\Visual Studio 2017\Projects\Brgy Laram Information System\Brgy Laram Information System\obj\Debug\Brgy Laram Information System.pdb
+C:\Users\monde\Documents\Visual Studio 2017\Projects\Brgy Laram Information System\Brgy Laram Information System\obj\Debug\Brgy_Laram_Information_System.Migration.resources
+C:\Users\monde\Documents\Visual Studio 2017\Projects\Brgy Laram Information System\Brgy Laram Information System\obj\Debug\Brgy_Laram_Information_System.MainParent.resources
